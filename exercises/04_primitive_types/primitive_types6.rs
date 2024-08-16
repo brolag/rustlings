@@ -12,7 +12,7 @@ mod tests {
         // and assign it to a variable called `second`.
         // let second = ???;
 
-        let second = numbers.2;
+        let second = numbers.1;
 
         assert_eq!(second, 2, "This is not the 2nd number in the tuple!");
     }
